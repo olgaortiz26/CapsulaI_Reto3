@@ -1,0 +1,12 @@
+div{
+    height: auto;
+    width: auto;
+    
+}
+body{
+    background-color: lightblue;
+}
+p{
+    font-weight:bold;
+    color: blueviolet;
+}
